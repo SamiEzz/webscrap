@@ -1,0 +1,10 @@
+Ce module de prise de rendez-vous concerne exclusivement :
+Première demande de titre de séjour "étudiant" :
+Vous venez d'arriver avec un visa mention "carte de séjour à solliciter"
+ou vous êtes titulaire d'un visa "mineur scolarisé" et venez d'avoir 18 ans
+ou vous êtes titulaire d'un visa "étudiant - concours" et avez réussi le concours prévu.
+Demande de titre de séjour "recherche d'emploi / création d'entreprise" :
+Vous avez obtenu un diplôme de licence professionnelle, master ou équivalent
+et vous souhaitez travailler en France ou créer une entreprise.
+ATTENTION : Ce module de prise de rendez-vous ne concerne pas le renouvellement d'un visa de long séjour valant titre de séjour (VLS-TS)
+1
